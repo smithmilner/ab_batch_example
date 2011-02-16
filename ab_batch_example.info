@@ -1,0 +1,4 @@
+core = "7.x"
+description = "An example of the batch api in drupal 7"
+name = "Smith Batch Example"
+package = "Affinity Bridge"
